@@ -18,11 +18,11 @@
   
   * BTS7960:
    
-   [Curto Circuito](https://www.curtocircuito.com.br/driver-ponte-h-43a-bts7960-ibt-2.html) R$65,00 + R$22,77 (frete) = R$87,77
+    [Curto Circuito](https://www.curtocircuito.com.br/driver-ponte-h-43a-bts7960-ibt-2.html) R$65,00 + R$22,77 (frete) = R$87,77
   
-   [Baú da Eletrônica](http://www.baudaeletronica.com.br/driver-bts7960.html?gclid=CjwKCAjwk7rmBRAaEiwAhDGhxG_IwGhzayz2m8blyF-v1_Tn9sEYlCehMUziL-R1VB4XMZvEkYE1wBoCgh4QAvD_BwE) R$113,31 + R$23,71 (frete) = R$137,02
+    [Baú da Eletrônica](http://www.baudaeletronica.com.br/driver-bts7960.html?gclid=CjwKCAjwk7rmBRAaEiwAhDGhxG_IwGhzayz2m8blyF-v1_Tn9sEYlCehMUziL-R1VB4XMZvEkYE1wBoCgh4QAvD_BwE) R$113,31 + R$23,71 (frete) = R$137,02
   
-   [Submarino](https://www.submarino.com.br/produto/35896991/modulo-driver-ponte-h-43a-bts7960-ibt-2?WT.srch=1&acc=d47a04c6f99456bc289220d5d0ff208d&epar=bp_pl_00_go_g35172&gclid=CjwKCAjwk7rmBRAaEiwAhDGhxFY71D-4xpVne0weY5almXdfQvgSEtd3MRGUIw1XUcwJ_rtQZur6ohoCRx4QAvD_BwE&i=5b501bf1eec3dfb1f8054d92&o=5af1d65bebb19ac62c54a351&opn=XMLGOOGLE&sellerId=27338195000130) R$73,35 + R$51,48 (frete) = R$124,83
+    [Submarino](https://www.submarino.com.br/produto/35896991/modulo-driver-ponte-h-43a-bts7960-ibt-2?WT.srch=1&acc=d47a04c6f99456bc289220d5d0ff208d&epar=bp_pl_00_go_g35172&gclid=CjwKCAjwk7rmBRAaEiwAhDGhxFY71D-4xpVne0weY5almXdfQvgSEtd3MRGUIw1XUcwJ_rtQZur6ohoCRx4QAvD_BwE&i=5b501bf1eec3dfb1f8054d92&o=5af1d65bebb19ac62c54a351&opn=XMLGOOGLE&sellerId=27338195000130) R$73,35 + R$51,48 (frete) = R$124,83
 * Rodas **x2**
 
 * Rodas Bobas **x2**
