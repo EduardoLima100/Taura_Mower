@@ -48,11 +48,35 @@
   [Amazon](https://www.amazon.com.br/Placa-Raspberry-Quadcore-1-4ghz-Bluetooth/dp/B07D17SNV3?tag=goog0ef-20&smid=ATRJB9E67LHOL&ascsubtag=go_958276976_46095487085_227548540242_aud-594374058437:pla-615523521330_c_) R$205,99 + 16,45 (frete) = R$222,44
  
 * Dynamixel
+
+*Encontrar fornecedor*
 * Lidar
+
+*Encontrar produto*
 * GPS
+
+*Definir modelo*
 * Giroscópio
+
+*Definir modelo*
 * Acelerômetro
+
+*Definir modelo*
 * Sensor de Cor
-* Sensor Ultrasônico
+
+*Definir modelo*
+* Sensor Ultrasônico HC-SR04
+
+[Baú da Eletrônica](http://www.baudaeletronica.com.br/modulo-de-sensor-ultrassonico-hc-sr04.html?gclid=Cj0KCQjwtr_mBRDeARIsALfBZA5AVzHdF1GUB5YDfAEYwNxmkiFL8cZ6j0udfciDYUbm_ljAFn8gQCkaAuIREALw_wcB) R$8,01 + R$23,71 (frete) = R$31,72
+
+[Eletrogate](https://www.eletrogate.com/modulo-sensor-de-distancia-ultrassonico-hc-sr04?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA7cPQMzoa7Sn5dBjM_TEnMhh_a2LPPA7X7-wwSTTiTzCxeEpNMsyS0aApOuEALw_wcB) R$11,90 + R$29,56 (frete) = R$41,46
+
+[Americanas](https://www.americanas.com.br/produto/28709809/modulo-sensor-de-distancia-ultrassonico-hc-sr04?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_inf-aces_acessorios_geral_gmv&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA7_m_5BZY7q7cxxK3bEfdkH3cnUagiMLlTqSCkdoXVsVqdL_2UxRYgaAnz8EALw_wcB&i=5ab087cceec3dfb1f8b32ca4&o=59f3140aeec3dfb1f80c6228&opn=YSMESP&sellerId=8318038000119) R$9,50 + R$30,70 (frete) = 41,30
 * Módulo LoRa **x5**
+
+[Filipeflop](https://www.filipeflop.com/produto/modulo-rf-wireless-lora-433mhz/) R$89,90 + 21,78 (frete) = R$111,68
 * Sensor de Efeito Hall
+
+[Baú da Eletrônica]() R$4,13 + R$23,71 (frete) = R$27,84
+[RoboCore]() R$6,90 + R$22,85 (frete) = R$29,75
+[Filipeflop]() R$7,90 + ...
