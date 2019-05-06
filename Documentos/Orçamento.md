@@ -72,11 +72,13 @@
 [Eletrogate](https://www.eletrogate.com/modulo-sensor-de-distancia-ultrassonico-hc-sr04?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA7cPQMzoa7Sn5dBjM_TEnMhh_a2LPPA7X7-wwSTTiTzCxeEpNMsyS0aApOuEALw_wcB) R$11,90 + R$29,56 (frete) = R$41,46
 
 [Americanas](https://www.americanas.com.br/produto/28709809/modulo-sensor-de-distancia-ultrassonico-hc-sr04?WT.srch=1&acc=e789ea56094489dffd798f86ff51c7a9&epar=bp_pl_00_go_inf-aces_acessorios_geral_gmv&gclid=Cj0KCQjwtr_mBRDeARIsALfBZA7_m_5BZY7q7cxxK3bEfdkH3cnUagiMLlTqSCkdoXVsVqdL_2UxRYgaAnz8EALw_wcB&i=5ab087cceec3dfb1f8b32ca4&o=59f3140aeec3dfb1f80c6228&opn=YSMESP&sellerId=8318038000119) R$9,50 + R$30,70 (frete) = 41,30
-* Módulo LoRa **x5**
+* Módulo LoRa: E32-TTL-100 **x5**
 
 [Filipeflop](https://www.filipeflop.com/produto/modulo-rf-wireless-lora-433mhz/) R$89,90 + 21,78 (frete) = R$111,68
 * Sensor de Efeito Hall
 
 [Baú da Eletrônica]() R$4,13 + R$23,71 (frete) = R$27,84
+
 [RoboCore]() R$6,90 + R$22,85 (frete) = R$29,75
+
 [Filipeflop]() R$7,90 + ...
