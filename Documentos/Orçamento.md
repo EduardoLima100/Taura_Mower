@@ -47,9 +47,10 @@
   
   [Amazon](https://www.amazon.com.br/Placa-Raspberry-Quadcore-1-4ghz-Bluetooth/dp/B07D17SNV3?tag=goog0ef-20&smid=ATRJB9E67LHOL&ascsubtag=go_958276976_46095487085_227548540242_aud-594374058437:pla-615523521330_c_) R$205,99 + 16,45 (frete) = R$222,44
  
-* Dynamixel
+* Servo motor
 
-*Encontrar fornecedor*
+[Eletrogate](https://www.eletrogate.com/servo-standard-futaba-s3003?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=CjwKCAjwq-TmBRBdEiwAaO1en-ObM5vFM0LxeoEhJVJiOFPEXcrthte74DtW3wdJsThBIDQKPRBkmhoCF1kQAvD_BwE) R$36,90 + 29,72 (frete) = R$66,62
+
 * Lidar
 
 *Encontrar produto*
