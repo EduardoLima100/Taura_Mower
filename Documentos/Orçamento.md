@@ -49,7 +49,7 @@
  
 * Servo motor
 
-[Eletrogate](https://www.eletrogate.com/servo-standard-futaba-s3003?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=CjwKCAjwq-TmBRBdEiwAaO1en-ObM5vFM0LxeoEhJVJiOFPEXcrthte74DtW3wdJsThBIDQKPRBkmhoCF1kQAvD_BwE) R$36,90 + 29,72 (frete) = R$66,62
+ [Eletrogate](https://www.eletrogate.com/servo-standard-futaba-s3003?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gclid=CjwKCAjwq-TmBRBdEiwAaO1en-ObM5vFM0LxeoEhJVJiOFPEXcrthte74DtW3wdJsThBIDQKPRBkmhoCF1kQAvD_BwE) R$36,90 + 29,72 (frete) = R$66,62
 
 * Lidar
 
